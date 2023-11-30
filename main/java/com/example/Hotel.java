@@ -96,7 +96,7 @@ public class Hotel {
             for (int i = 0; i < getOccupancy(); i++) {
                 // if (guests.contains(guests.get(guestInrooms + i))) {
                 // room.addguests(guests.get(guestInrooms +i));
-                // }
+                // 
                 // room.addguests(guests.get(i));
                 // guests.remove(i);
 
